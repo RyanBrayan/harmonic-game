@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkharmonic_game"]=self["webpackChunkharmonic_game"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var r=e(6252);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),c=[t];function s(n,a){return(0,r.wg)(),(0,r.iD)("div",u,c)}var i=e(3744);const o={},h=(0,i.Z)(o,[["render",s]]);var f=h}}]);
+//# sourceMappingURL=about.f8429ab5.js.map
